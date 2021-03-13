@@ -85,19 +85,19 @@ Ext.define('MyApp.view.main.Main', {
         title: 'Users',
         iconCls: 'fa-user',
         bind: {
-            html: '{test text}'
+            html: '{loremIpsum}'
         }
     }, {
         title: 'Groups',
         iconCls: 'fa-users',
         bind: {
-            html: '{test text}'
+            html: '{loremIpsum}'
         }
     }, {
         title: 'Settings',
         iconCls: 'fa-cog',
         bind: {
-            html: '{test text}'
+            html: '{loremIpsum}'
         }
     }]
 });
