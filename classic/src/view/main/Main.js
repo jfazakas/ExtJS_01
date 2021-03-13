@@ -97,7 +97,7 @@ Ext.define('MyApp.view.main.Main', {
         title: 'Settings',
         iconCls: 'fa-cog',
         bind: {
-            html: '{loremIpsum}'
+            html: '{test text}'
         }
     }]
 });
